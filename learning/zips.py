@@ -2,7 +2,7 @@
 
 
 ######################################### zip in python############################################
-
+#zip(iterables)=aggregate elements from tow or more iterables (list,tuples,sets,etc.) creates a zip object with paired elecmts store in tuples for each element
 
 
 # Zip Practice #1

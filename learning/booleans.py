@@ -9,9 +9,7 @@
 # 1. Comparison Operators:
 # These operators are used to compare two values:
 
-# == (Equal to): Checks if the two values are equal.
-
-
+# ==(Equal to): Checks if the two values are equal.
 # print(5 == 5)  # True
 # print(5 == 6)  # False
 # print(10 == 10)  # True
@@ -65,6 +63,8 @@
 
 # x = [1, 2, 3, 4, 5]
 # print(3 in x)  # True
+# print(8 in x)
+# print(8 not in x)
 # not in: Returns True if a sequence with the specified value is not present in the object.
 
 # x = [1, 2, 3, 4, 5]
